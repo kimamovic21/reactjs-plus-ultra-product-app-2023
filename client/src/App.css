@@ -1,0 +1,9 @@
+.products-title {
+  text-align: center;
+}
+
+.products-wrapper {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
